@@ -175,6 +175,11 @@ params:
     - name: Sky Lounge Discord Server
       description: Discord Server for the Sky Lounge.
       category: 3rd Party Services
+    - name: Spotify Artist Page
+      description: The Spotify Artist page for Nitesky.
+      category: 3rd Party Services
+      link: https://open.spotify.com/artist/1li1fzWBCafk4Pi5lnanls?si=qNk0q0LJQD68FNLHpXzR-Q
+
 
   # What date format to use?
   #
